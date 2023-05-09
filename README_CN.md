@@ -70,6 +70,8 @@ code1,code2,code3
 
 OpanAI 密钥，你在 openai 账户页面申请的 api key。
 
+- https://platform.openai.com/account/api-keys
+
 ### `CODE` （可选）
 
 访问密码，可选，可以使用逗号隔开多个密码。
